@@ -40,7 +40,7 @@ Welcome to my GitHub! I specialize in transforming raw data into business insigh
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-yousfi/)
+- 💼 https://www.linkedin.com/in/mohamed-yousfi-78169b231/
 - 📁 [Explore My Repositories](https://github.com/Med939393?tab=repositories)
 
 ---
